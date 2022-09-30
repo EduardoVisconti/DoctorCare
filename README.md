@@ -1,7 +1,7 @@
 # [DoctorCare](https://eduardovisconti.github.io/DoctorCare/)
 
 <br>
-![Capa](https://user-images.githubusercontent.com/74476078/193169351-d0f8ef8c-8186-4b5c-a267-331afe9105be.png)
+![image](https://user-images.githubusercontent.com/74476078/193169498-f887cd15-e61c-4996-a7ec-8adf9206584f.png)
 <br>
 
 🇧🇷
