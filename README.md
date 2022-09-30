@@ -1,6 +1,8 @@
 # [DoctorCare](https://eduardovisconti.github.io/DoctorCare/)
 
 <br>
+![Capa](https://user-images.githubusercontent.com/74476078/193169328-8bf7e6b1-0838-456c-a4cb-cb3ce02767d4.png)
+<br>
 
 🇧🇷
 <br>
