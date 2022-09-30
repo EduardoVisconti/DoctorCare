@@ -13,7 +13,7 @@ Website desenvolvido para a clínica médica DoctorCare, durante a NLW oferecida
 🇺🇸
 <br>
 Website developed for the DoctorCare medical clinic, during the NLW offered by Rocketseat.
-<br>
+<br><br>
 
 ## 🚀 Tecnologias
 Durante o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
