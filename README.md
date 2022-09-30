@@ -1,15 +1,15 @@
-# [DoctorCare](https://eduardovisconti.github.io/FocusTimer-DarkMode/)
+# [DoctorCare](https://eduardovisconti.github.io/DoctorCare/)
 
 <br>
 
 🇧🇷
 <br>
-Página desenvolvida para utilizar um Timer onde é possível determinar o tempo e escolher um som de plano de fundo. Nele foram implementadas as funcionalidades de usar um tema escuro e poder controlar o volume do som na interface do Timer.
+Website desenvolvido para a clínica médica DoctorCare, durante a NLW oferecida pela Rocketseat.
 <br>
 
 🇺🇸
 <br>
-Page developed to use a timer, where you can determine the time and choose a background sound. It has the functionality of using a dark theme and controlling the sound volume in the timer interface.
+Website developed for the DoctorCare medical clinic, during the NLW offered by Rocketseat.
 <br>
 
 ## 🚀 Tecnologias
